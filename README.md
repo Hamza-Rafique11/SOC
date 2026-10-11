@@ -1,8 +1,8 @@
-# AegisSOC
+# SOC
 
 **AI-Augmented Blue Team & Threat Detection Platform** for enterprise SOC operations, threat hunting, and defensive security research.
 
-AegisSOC is a full-stack Security Operations Center (SOC) simulation platform built as a Final Year Project (FYP). It combines rule-based detection-as-code, an unsupervised ML anomaly engine, an LLM-powered AI SOC analyst, and a human-in-the-loop SOAR response workflow — all wrapped in a single-pane-of-glass dashboard modeled on real-world enterprise SOC tooling.
+SOC is a full-stack Security Operations Center (SOC) simulation platform built as a Final Year Project (FYP). It combines rule-based detection-as-code, an unsupervised ML anomaly engine, an LLM-powered AI SOC analyst, and a human-in-the-loop SOAR response workflow — all wrapped in a single-pane-of-glass dashboard modeled on real-world enterprise SOC tooling.
 
 > ⚠️ **Lab / research project.** AegisSOC runs against an in-memory, seeded data store designed for demonstration, coursework, and research evaluation. It is not hardened for production deployment.
 
